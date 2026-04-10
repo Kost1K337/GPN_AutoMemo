@@ -1,5 +1,6 @@
 eval_dataset*
-
+test_dataset_v1*
+whisper_benchmark_results_test_dataset.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
